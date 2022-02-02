@@ -1,4 +1,6 @@
 h1 {
     margin: 10rem;
     color: darkblue;
+    transition: 1s;
+    transform: scale(1.5);
 }
